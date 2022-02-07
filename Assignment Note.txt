@@ -1,0 +1,18 @@
+Assignment-03 Reqoerments
+
+What to do?:
+Submit Your Privete repository link.
+Submit Your Live website link.
+
+Main Tasks:
+01. Create a website Like "convention-center" Website.
+02. Slider button Link with others links.
+03. Responsive this website for Mobile, Tablet & Dekstop.
+04. use google font.
+05. Add single part like this website.
+06. Clean HTML, CSS Code.
+07. create tost button.
+
+Marks Syestem:
+Main Marks: 50
+Bonus Marks: 10

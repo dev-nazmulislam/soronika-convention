@@ -1,0 +1,17 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.scale {
+  transform: scale(117%);
+  top: -25px;
+}
+
+@media screen and (max-width: 1000px) {
+  .scale {
+    transform: scale(100%);
+    position: static;
+  }
+}

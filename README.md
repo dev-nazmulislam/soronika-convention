@@ -6,6 +6,12 @@
 
 - [LiveSite](https://shoronika-convention-center.netlify.app/)
 
+## Work with JavaScript
+
+- [JavaScript Tutorial beginner to advanced (Simple Note)](https://github.com/dev-nazmulislam/javascript-short-note)
+- [JavaScript Problem Solving](https://github.com/dev-nazmulislam/javaScript-problem-solving)
+- [JavaScript Function parameter handle or error control.](https://github.com/dev-nazmulislam/function-parameter-handle)
+
 ## Symple projects with JavaScript
 
 - [Calculator](https://github.com/dev-nazmulislam/calculator)
